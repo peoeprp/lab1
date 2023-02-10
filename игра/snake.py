@@ -1,4 +1,4 @@
-"""Snake, classic arcade game.
+"""Snake, classic arcade game
 
 
 
